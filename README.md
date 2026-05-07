@@ -41,6 +41,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 
 Not checked yet:
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
+* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - free
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
