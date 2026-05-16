@@ -112,15 +112,16 @@ More tools can be found at https://github.com/kkoooqq/fakebrowser
 
 # Anti-detect libs
 
-[Privacy Manager](https://www.ivanovation.ro/modules/) - 12 modules to change fingerprint of your computer.
+* [Firefox-Stealth](https://github.com/feder-cr/firefox-stealth) - 15 C++ patches against mozilla-central (Firefox 150.0.1) that change fingerprint at the source level (Canvas, WebGL, Fonts, Audio, WebRTC, Timezone). MPL-2.0.
+* [Privacy Manager](https://www.ivanovation.ro/modules/) - 12 modules to change fingerprint of your computer.
 
 For Puppeteer:  
-* [Imposter](https://github.com/TheGP/Imposter) - my package that emulates human actions on the page, currently in development, join me :)
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
 * [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - isolated environment, outdated, so XPath and some feautures doesnt work
 * [Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS  
 * [Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
 * [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
+* [Imposter](https://github.com/TheGP/Imposter) - my package that emulates human actions on the page, currently in development, join me :)
 
 For Playwright:
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
