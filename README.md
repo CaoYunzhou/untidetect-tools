@@ -111,8 +111,6 @@ Not recommended:
 More tools can be found at https://github.com/kkoooqq/fakebrowser  
 
 # Anti-detect libs
-* [firefox-stealth](https://github.com/feder-cr/firefox-stealth) - 15 C++ patches against mozilla-central (Firefox 150.0.1) that change fingerprint at the source level (Canvas, WebGL, Fonts, Audio, WebRTC, Timezone). MPL-2.0.
-
 
 * [Firefox-Stealth](https://github.com/feder-cr/firefox-stealth) - 15 C++ patches against mozilla-central (Firefox 150.0.1) that change fingerprint at the source level (Canvas, WebGL, Fonts, Audio, WebRTC, Timezone). MPL-2.0.
 * [Privacy Manager](https://www.ivanovation.ro/modules/) - 12 modules to change fingerprint of your computer.
