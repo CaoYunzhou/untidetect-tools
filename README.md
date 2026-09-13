@@ -198,7 +198,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [GeoNode](https://geonode.com/?ref=152763) - $3/Gb (from $0.45)
 * [Soax](https://soax.sjv.io/gONVj5) - starts at $6.6/GB and less
 
-# Buying accounts
+# Shops
 Hm. Cant get it right? You can always shortcut:
 * [AccsMarket](https://accsmarket.com/en/?ref=631958) - en/ru, crypto
 * [DarkStore](https://dark.shopping/?p=197898) - ru lang, crypto / local russian bank payment
