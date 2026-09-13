@@ -42,6 +42,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 
 Not checked yet:
 * [NullPrint](https://nullprint.net/sign/?ref=tvyllw0bk2) - starts $9/month for 20
+* [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
 * [Multizen](https://getmultizen.com/) - free, MIT
 * [DonutBrowser](https://donutbrowser.com/) - unlimited local
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
