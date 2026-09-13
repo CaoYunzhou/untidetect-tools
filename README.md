@@ -36,6 +36,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
+* [Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) - Playwright `launch()` + patched Chromium 151 (C++ personas, no JS injectors). Linux x86_64 alpha, PyPI `hexium-browser`, AGPL 😊
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
@@ -133,6 +134,7 @@ For Playwright:
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
 * [Playwrigh-ghost](https://github.com/regseb/playwright-ghost) - Playwright with plugins to be a ghost
 * [Invisible-Playwright](https://github.com/feder-cr/invisible_playwright) - Patched Firefox 150 + Playwright wrapper, MIT licensed, self-hosted. Spoofing at the C++ level (no JS injection).
+* [Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) - Patched Chromium 151 + Playwright wrapper, AGPL, self-hosted. Spoofing at the C++ level (no JS injection). Linux x86_64 alpha. 😊
 
 For Selenium/Python:  
 * [NoDriver](https://github.com/ultrafunkamsterdam/nodriver) - successor of Undetected-chromedriver
